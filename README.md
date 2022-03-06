@@ -10,7 +10,7 @@ I'm a <b>Freelance Game Dev</br>
 
 <br>
 <a href="https://github.com/soilshubham">
-   <img src="https://github-readme-stats.vercel.app/api?username=itsRayan11" alt="Sahil's github stats" width=450px/>
+   <img src="https://github-readme-stats.vercel.app/api?username=itsRayan11&show_icons=true&theme=dracula" alt="Sahil's github stats" width=450px/>
 </a><br><br>
 
 <div id="tech"></div>
