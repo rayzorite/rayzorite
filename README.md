@@ -59,14 +59,8 @@ I'm a <b>Freelance Game Dev</br>
 <br>
 <p align="center"=><i>In case you wanna reach out to me</i></p>
  <p align="center">
-  <a href="https://www.linkedin.com/in/soilshubham/"><img alt="LinkedIn" title="LinkedIn" src="https://github.com/soilshubham/soilshubham/blob/main/icons/linkedin.svg" width=20px" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/soilshubham"><img alt="Twitter" title="Twitter" src="https://github.com/soilshubham/soilshubham/blob/main/icons/twitter.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/soilshubham/"><img alt="Instagram" title="Instagram" src="https://github.com/soilshubham/soilshubham/blob/main/icons/instagram.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
-   <a href="mailto:soilshubham@gmail.com"><img alt="mail" title="mail" src="https://github.com/soilshubham/soilshubham/blob/main/icons/gmail.svg" width=20px/></a>
+  <a href="https://www.znap.link/itsRayan11"><img alt="Social Accounts" title="Social Accounts" src="https://imgur.com/a/UMh07Dq" width=20px" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
 -----
-Credits: [itsRayan11](https://github.com/itsRayan11)
-
-Last Edited on: 06/03/2022
