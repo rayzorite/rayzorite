@@ -1,4 +1,4 @@
-# Hi, you've arrived at Rayan's Git! <br>I'm not in right now, please leave a [message](https://twitter.com/rayanaziz.11).
+# Hi, you've arrived at Rayan's Git! <br>I'm not in right now, please leave a [message](https://instagram.com/rayanaziz.11).
 
 <img src="https://github.com/soilshubham/soilshubham/blob/main/github%20banner.jpg" alt="Rayan's banner" width=100%>
 
@@ -9,7 +9,7 @@ I'm a <b>Freelance Game Dev</br>
 ◽ I’m currently learning everything about **Unity and C#**.<br>
 
 <br>
-<a href="https://github.com/soilshubham">
+<a href="https://github.com/itsRayan11">
    <img src="https://github-readme-stats.vercel.app/api?username=itsRayan11&show_icons=true&theme=dracula" alt="Sahil's github stats" width=450px/>
 </a><br><br>
 
@@ -22,7 +22,7 @@ I'm a <b>Freelance Game Dev</br>
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/>
+         <p> HTML </p>
       </a>
       <br>HTML
     </td>
