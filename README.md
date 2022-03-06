@@ -59,7 +59,7 @@ I'm a <b>Freelance Game Dev</br>
 <br>
 <p align="center"=><i>In case you wanna reach out to me</i></p>
  <p align="center">
-   <a href="https://www.znap.link/itsRayan11">🌐<p>Social Accounts</p> </a>&nbsp;&nbsp;&nbsp;
+   <a href="https://www.znap.link/itsRayan11"><p>🌐 Social Accounts</p> </a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
