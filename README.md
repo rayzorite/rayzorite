@@ -1,7 +1,5 @@
 # Hi, you've arrived at Rayan's Git! <br>I'm not in right now, please leave a [message](https://instagram.com/rayanaziz.11).
 
-<img src="https://github.com/soilshubham/soilshubham/blob/main/github%20banner.jpg" alt="Rayan's banner" width=100%>
-
 ## :raising_hand: About me:
 I'm a <b>Freelance Game Dev</br>
 ◽ Intrested in <b>Full-Stack Developement</b>, <b>Game developement</b> and <b>3D Modeleing</b>.<br>
@@ -69,6 +67,6 @@ I'm a <b>Freelance Game Dev</br>
 <br>
 
 -----
-Credits: [soilshubham](https://github.com/soilshubham)
+Credits: [itsRayan11](https://github.com/itsRayan11)
 
-Last Edited on: 11/05/2021
+Last Edited on: 06/03/2022
