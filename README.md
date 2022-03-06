@@ -47,6 +47,12 @@ I'm a <b>Freelance Game Dev</br>
     <td align="center" width="96">
       <br>Blender
    </td> 
+     <td align="center" width="96">
+      <br>Substance Painter
+   </td> 
+     <td align="center" width="96">
+      <br>Figma
+   </td> 
   </tr>
 </table>
 <br>
