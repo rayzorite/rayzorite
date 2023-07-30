@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Small Game Projects](https://itsrayan11.itch.io/)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Game Art**
 
 - 👯 I’m looking to collaborate on [my Games](https://itsrayan11.itch.io/)
 
