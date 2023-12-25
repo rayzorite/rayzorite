@@ -1,19 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rayyan Aziz</h1>
 <h3 align="center">An Indie Game Developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Small Game Projects](https://itsrayan11.itch.io/)
+- 🔭 I’m currently working on [The Void Project](https://store.steampowered.com/app/2681270/)
 
-- 🌱 I’m currently learning **Game Art**
+- 🌱 I’m currently learning **Game Design**
 
-- 👯 I’m looking to collaborate on [my Games](https://itsrayan11.itch.io/)
-
-- 🤝 I’m looking for help with **Game Development stuff**
-
-- 👨‍💻 All of my projects are available at [https://znap.link/itsRayan11](https://znap.link/itsRayan11)
-
-- 💬 Ask me about **C#, Unity or Blender 3D Modeling**
-
-- 📫 How to reach me **Rayzorite@Proton.me**
+- 📫 Contact Me: **Rayzorite@Proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
