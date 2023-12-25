@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C#, Unity or Blender 3D Modeling**
 
-- 📫 How to reach me **itsRayanAziz@gmail.com**
+- 📫 How to reach me **Rayzorite@Proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
